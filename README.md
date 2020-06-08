@@ -44,6 +44,10 @@ https://link.springer.com/chapter/10.1007/978-3-030-22868-2_46#Sec2
 根据论文里的，我们可以用以下做对比试验：
 
 1. 用二分图的改进的BP算法
+
+DNS graph mining for malicious domain detection 
+
+https://ieeexplore.ieee.org/document/8258515#full-text-header
 2. 置信度传播算法（belief propagation algorithm）
 3. 标签传播算法（label propagation algorithm）
 
