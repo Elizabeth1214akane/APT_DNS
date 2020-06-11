@@ -31,7 +31,16 @@
 - 至此麻烦师弟生成一个intervalToStr.txt文件，就是被平滑过的时间间隔*
 
 
-github项目地址：https://github.com/kiritoxja/DNS-period-detection
+## 二分图
 
-## 二部图
-（这个相关的检测算法还在调研中，待更新）
+主要生成两个图：
+
+- 域名与主机IP的关联图
+
+- 域名与客户端IP之间的关联图
+
+**这个生成图的代码也有，在/dataProcess/toString里，里面可能有其他代码比较杂乱，麻烦师弟整理一下orz**
+
+- 也麻烦师弟生成个pkl文件嘛，具体格式你看着办；里面可能有多个不连通的子图，
+
+github项目地址：https://github.com/kiritoxja/DNS-period-detection
